@@ -1,0 +1,9 @@
+Bandit,Reward,Algorithm
+Return 1,1.6011738877049817,Epsilon Greedy
+Return 2,0.0,Epsilon Greedy
+Return 3,84.58996443651986,Epsilon Greedy
+Return 4,8012.486232447974,Epsilon Greedy
+Return of 1,-1.5381385011486364,Thompson sampling
+Return of 2,4115.723718627873,Thompson sampling
+Return of 3,0.0,Thompson sampling
+Return of 4,0.0,Thompson sampling
